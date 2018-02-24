@@ -71,9 +71,7 @@ https://www.instructables.com/id/Take-a-Clean-Picture-Without-Annoying-People/
 Download:
 
 https://www.instructables.com/id/Take-a-Clean-Picture-Without-Annoying-People/
-
-
-------------------------------------------------------------------------------------      
+   
 
 ------------------------------------------------------------------------------------
 Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
@@ -91,5 +89,5 @@ Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
 [Free Tools : http://www.rasvector.url.tw/hot_91270.html](http://www.rasvector.url.tw/hot_91270.html)
 
 
-[Instructables :](https://www.instructables.com/member/Daniel%20Lu/instructables/)
+[Instructables : https://www.instructables.com/member/Daniel%20Lu/instructables/](https://www.instructables.com/member/Daniel%20Lu/instructables/)
 [![Instructables ](https://github.com/dan59314/Pulse-Sensor-Arduino/blob/master/Instructables01.JPG)](https://www.instructables.com/member/Daniel%20Lu/instructables/ "Instructables") 
