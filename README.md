@@ -70,6 +70,10 @@ https://www.instructables.com/id/Take-a-Clean-Picture-Without-Annoying-People/
 [Demo 4](https://youtu.be/EvBLSZ3G-gk)
 
 
+Download:
+
+https://www.instructables.com/id/Take-a-Clean-Picture-Without-Annoying-People/
+
 
 ------------------------------------------------------------------------------------      
 Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
