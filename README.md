@@ -63,11 +63,9 @@ https://www.instructables.com/id/Take-a-Clean-Picture-Without-Annoying-People/
 
 [Demo 1](https://youtu.be/JlcMamKeyLw)
 
-[Demo 2](https://youtu.be/FCE8azMDrMs)
+[Demo 2](https://youtu.be/rP5bD2mu9js)
 
-[Demo 3](https://youtu.be/rP5bD2mu9js)
-
-[Demo 4](https://youtu.be/EvBLSZ3G-gk)
+[Demo 3](https://youtu.be/EvBLSZ3G-gk)
 
 
 Download:
